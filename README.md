@@ -6,9 +6,9 @@
 
 <div align="center">
   
-🌱 I’m currently learning **React and React Native**
+🌱 I’m currently learning **React Native and Flutter**
   
-💬 Ask me about **Frontend Development**
+💬 Ask me about **Mobile Development**
 
 📫 How to reach me **jayzstha15@gmail.com**
 
