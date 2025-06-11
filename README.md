@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayash shrestha</h1>
 
-<h3 align="center">A Mobile Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+%7C+React+Native;Eager+to+learn+new+technologies" alt="Typing SVG" />
+</p>
+
 
 
 
@@ -33,21 +36,20 @@
 </div>
 
 
-<div align='center'>
-<table>
-  <tr>
-    <td align='center'>
-      <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayashz&show_icons=true&theme=dark&title_color=f5ec00&text_color=f5ec00&bg_color=000000&locale=en&layout=compact" alt="jayashz" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><img   src="https://github-readme-streak-stats.herokuapp.com/?user=jayashz&theme=highcontrast" alt="jayashz" /></p>
-    </td>
-  </tr>
-</table>
-</div>
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayashz&show_icons=true&theme=transparent&hide_title=true&hide=issues&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayashz&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayashz&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+
+
+
+
   
 
 
